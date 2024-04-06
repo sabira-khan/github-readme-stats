@@ -758,7 +758,7 @@ By default, GitHub does not lay out the cards side by side. To do that, you can 
 
 # Deploy on your own
 
-## On Vercel
+## On Vercel --> use user-read and full repo permissions during generating PAT from github for deployment
 
 ### :film\_projector: [Check Out Step By Step Video Tutorial By @codeSTACKr](https://youtu.be/n6d4KHSKqGk?t=107)
 
